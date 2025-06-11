@@ -30,40 +30,8 @@ While the main tool is available at the website above, this GitHub repo is solel
 ## 📘 How to Contribute
 
 1. Browse existing issues—don’t duplicate.  
-2. Use the **Feature Request** template below to propose ideas.  
+2. Use the **Feature Request** template to propose ideas.  
 3. Vote/👍 on requests you support.  
 4. Stay in the loop via issue comments or participating discussions.
 
----
 
-## 🧩 Feature Request Issue Template
-
-Use the following when opening a new feature request:
-
-```markdown
----
-name: 🚀 Feature Request
-about: Propose a new idea or improvement
-title: '[Feature] Descriptive Feature Title'
-labels: enhancement
-assignees: ''
-
----
-
-### ❓ Describe the problem or idea
-A clear explanation of the issue or improvement you're proposing.
-
-### 🎯 Goal
-What you hope to achieve with this feature.
-
-### 🛠 Proposed solution (optional)
-Describe a possible implementation.
-
-### 📊 Value
-Who benefits and why it matters.
-
-### 🌐 Alternatives considered
-Other approaches you thought of (if any).
-
-### 📸 Screenshots or mockups (optional)
-Add images to illustrate the idea.
